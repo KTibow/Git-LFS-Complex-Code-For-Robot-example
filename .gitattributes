@@ -1,0 +1,6 @@
+*.bina filter=lfs diff=lfs merge=lfs -text
+*.bilo filter=lfs diff=lfs merge=lfs -text
+*.bico filter=lfs diff=lfs merge=lfs -text
+*.bicoCjso filter=lfs diff=lfs merge=lfs -text
+*.bicoC filter=lfs diff=lfs merge=lfs -text
+*.bininfor filter=lfs diff=lfs merge=lfs -text
