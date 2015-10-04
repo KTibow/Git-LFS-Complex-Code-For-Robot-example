@@ -4,3 +4,4 @@
 *.bicoCjso filter=lfs diff=lfs merge=lfs -text
 *.bicoC filter=lfs diff=lfs merge=lfs -text
 *.bininfor filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
